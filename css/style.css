@@ -10,8 +10,8 @@ body{
 
 .colecao-botoes .botao{
     width: 60px;
-    height: 60px
-    border-radius 30px;
+    height: 60px;
+    border-radius: 30px;
     border: none;
     font-weight: bolder;
 }
