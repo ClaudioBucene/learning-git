@@ -1,0 +1,17 @@
+body{
+    background-color: #DFDEDE;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    height: 100vw;
+    font-family: Tahoma;
+}
+
+.colecao-botoes .botao{
+    width: 60px;
+    height: 60px
+    border-radius 30px;
+    border: none;
+    font-weight: bolder;
+}
