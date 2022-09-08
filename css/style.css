@@ -15,3 +15,18 @@ body{
     border: none;
     font-weight: bolder;
 }
+.botao#cor-1{
+    background-color: #D94E33;
+}
+.botao#cor-2{
+    background-color: #2C5607;
+}
+.botao#cor-3{
+    background-color: #ED9B33;
+}
+.botao#cor-4{
+    background-color: #8A9B8E;
+}
+.botao#cor-5{
+    background-color: #DDE5ED;
+}
